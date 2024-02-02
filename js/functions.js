@@ -1,6 +1,3 @@
-const div = document.querySelector('div')
-const img = document.querySelector('img')
-
 const getRandomIntNumberInRange = (min,max) => {
 return Math.floor(Math.random()*max)+min
 }
